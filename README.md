@@ -8,7 +8,7 @@ The Responsive Web Design Certification program taught me-
   CSS Flexbox,
   and CSS Grid
 
-The JavaScript Algorithms and Data Structures Certification program taught me-
+(In Progress!!) The JavaScript Algorithms and Data Structures Certification program taught me-
   Vanilla JavaScript,
   ES6,
   Regular Expressions,
