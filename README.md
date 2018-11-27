@@ -24,4 +24,4 @@ The <b>JavaScript Algorithms and Data Structures Certification</b> program taugh
   Sass,
   React,
   Redux,
-  and React-Redux
+  <br>and React-Redux
