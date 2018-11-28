@@ -18,7 +18,7 @@ The <b>JavaScript Algorithms and Data Structures Certification</b> program taugh
   Object Oriented Programming,
   and Functional Programming
 
-(In Progress!) The <b>Front End Libraires Certification</b> program taught me-
+The <b>Front End Libraires Certification</b> program taught me-
   Bootstrap,
   jQuery,
   Sass,
